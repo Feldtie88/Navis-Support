@@ -1,0 +1,15 @@
+{
+  "name": "supportbot",
+  "version": "1.0.0",
+  "description": "Support Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Crimson88",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "jshint": "^2.10.2"
+  }
+}
